@@ -1,0 +1,20 @@
+{
+  "extraKnownMarketplaces": {
+    "awesome-gamedev-agent-skills": {
+      "source": {
+        "source": "github",
+        "repo": "gamedev-skills/awesome-gamedev-agent-skills"
+      }
+    },
+    "anthropic-agent-skills": {
+      "source": {
+        "source": "github",
+        "repo": "anthropics/skills"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "gamedev@awesome-gamedev-agent-skills": true,
+    "example-skills@anthropic-agent-skills": true
+  }
+}
